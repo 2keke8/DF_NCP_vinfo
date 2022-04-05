@@ -1,0 +1,16 @@
+com\bjpowernode\vinfo\bean\MapBean.class
+com\bjpowernode\vinfo\util\HttpClientUtil.class
+com\bjpowernode\vinfo\handller\DataHandler.class
+com\bjpowernode\vinfo\bean\DataBean.class
+com\bjpowernode\vinfo\handller\JsoupHandler.class
+com\bjpowernode\vinfo\util\HttpURLConnectionUtil.class
+com\bjpowernode\vinfo\handller\GraphHandler.class
+com\bjpowernode\vinfo\bean\GraphAddBean.class
+com\bjpowernode\vinfo\service\DataServiceImpl.class
+com\bjpowernode\vinfo\mapper\DataMapper.class
+com\bjpowernode\vinfo\MyApplication.class
+com\bjpowernode\vinfo\bean\GraphColumnarBean.class
+com\bjpowernode\vinfo\bean\GraphPieBean.class
+com\bjpowernode\vinfo\controller\DataController.class
+com\bjpowernode\vinfo\service\DataService.class
+com\bjpowernode\vinfo\bean\GraphBean.class
